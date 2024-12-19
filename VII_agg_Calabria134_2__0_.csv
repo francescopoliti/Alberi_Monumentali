@@ -1,0 +1,309 @@
+PROGR,REGIONE,ID SCHEDA,PROVINCIA,COMUNE,LOCALITÀ,LATITUDINE SU GIS,LONGITUDINE SU GIS,ALTITUDINE (m s.l.m.),CONTESTO URBANO,SPECIE NOME SCIENTIFICO,SPECIE NOME VOLGARE,CIRCONFERENZA FUSTO (cm),ALTEZZA (m),CRITERI DI MONUMENTALITÀ,PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO
+1,CALABRIA,01/A155/CZ/18,Catanzaro,Albi,Villaggio Buturo - Centro Visite,39° 04' 24.07'',16° 38' 11.89'',1558,no,Fagus sylvatica L.,Faggio,460,27.0,a) eta` e/o dimensioni,no
+2,CALABRIA,04/A155/CZ/18,Catanzaro,Albi,Villaggio Buturo - Centro Visite,39° 04' 21.4'',16° 38' 18.49'',1533,no,Fagus sylvatica L.,Faggio,470,36.0,a) eta` e/o dimensioni,no
+3,CALABRIA,06/A155/CZ/18,Catanzaro,Albi,Villaggio Buturo - Casa Giulia,39° 04' 06.96'',16° 38' 24.72'',1552,no,Abies alba Mill.,Abete bianco,410,34.0,a) eta` e/o dimensioni,no
+4,CALABRIA,01/A736/CZ/18,Catanzaro,Belcastro,Centro Storico - Piazza Margherita,39° 1' 3.3'',16° 47' 2.26'',496,si`,Celtis australis L.,Bagolaro,290,16.0,"a) eta` e/o dimensioni
+c) valore ecologico",si`
+5,CALABRIA,01/C542/CZ/18,Catanzaro,Cerva,Melitani,39° 02' 27.11'',16° 43' 22.28'',1200,no,Castanea sativa Mill.,Castagno,930,27.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+e) architettura vegetale
+f) pregio paesaggistico
+g) valore storico. culturale. religioso",si`
+6,CALABRIA,01/D218/CZ/18,Catanzaro,Curinga,Sant'Elia - Vrisi,38° 49' 23.07'',16° 19' 57.07'',460,no,Platanus orientalis L.,Platano orientale,1200,21.0,"a) eta` e/o dimensioni
+c) valore ecologico
+d) rarita` botanica",no
+7,CALABRIA,01/F586/CZ/18,Catanzaro,Montepaone,Piazza Immacolata,38° 43' 23.57'',16° 29' 49.36'',356,si`,Ulmus minor Mill.,Olmo campestre,320,10.0,"a) eta` e/o dimensioni
+g) valore storico. culturale. religioso",no
+8,CALABRIA,01/H976/CZ/18,Catanzaro,San Mango D'Aquino,Piazza della Pace,39° 3' 32.2'',16° 11' 26.31'',470,si`,Ulmus glabra Huds.,Olmo montano,440,17.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico",si`
+9,CALABRIA,01/I844/CZ/18,Catanzaro,Sorbo San Basile,Colle Sant'Elia,39° 1' 56.15'',16° 29' 24.74'',840,no,Castanea sativa Mill.,Castagno,840,19.0,a) eta` e/o dimensioni,no
+10,CALABRIA,01/L070/CZ/18,Catanzaro,Taverna,Frainella - Colle del Telegrafo,39° 05' 42'',16° 36' 57.96'',1542,no,Abies alba Mill.,Abete bianco,600,40.0,a) eta` e/o dimensioni,no
+11,CALABRIA,02/L070/CZ/18,Catanzaro,Taverna,Pomo,39° 06' 10'',16° 34' 47.88'',1472,no,Pinus nigra subsp. laricio Maire,Pino laricio,530,23.0,"a) eta` e/o dimensioni
+b) forma e portamento
+d) rarita` botanica",no
+12,CALABRIA,03/L070/CZ/18,Catanzaro,Taverna,Maru',39° 06' 47.88'',16° 34' 21.72'',1554,no,Fagus sylvatica L.,Faggio,440,32.0,"a) eta` e/o dimensioni
+c) valore ecologico",no
+13,CALABRIA,07/L070/CZ/18,Catanzaro,Taverna,Gariglione,39° 07' 55.17'',16° 38' 24.31'',1664,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,"440 (med)
+460 (max)","37.5 (med)
+40.0 (max)","a) eta` e/o dimensioni
+c) valore ecologico
+d) rarita` botanica",no
+14,CALABRIA,10/L070/CZ/18,Catanzaro,Taverna,Gariglione,39° 07' 58.86'',16° 38' 26.89'',1714,no,Fagus sylvatica L.,Faggio,415,30.0,"a) eta` e/o dimensioni
+c) valore ecologico",no
+15,CALABRIA,13/L070/CZ/18,Catanzaro,Taverna,Gariglione,39° 08' 03.4'',16° 38' 13'',1729,no,Abies alba Mill.,Abete bianco,410,33.0,"a) eta` e/o dimensioni
+d) rarita` botanica",no
+16,CALABRIA,15/L070/CZ/18,Catanzaro,Taverna,Gariglione,39° 07' 57.96'',16° 38' 19.97'',1705,no,Abies alba Mill.,Abete bianco,515,25.0,"a) eta` e/o dimensioni
+d) rarita` botanica",no
+17,CALABRIA,01/A160/CS/18,Cosenza,Albidona,Viale Italia,39° 55' 21.78'',16° 28' 25.52'',750,si`,Pyrus pyraster (L.) Burgsd.,Pero selvatico,135-70,6.0,"a) eta` e/o dimensioni
+g) valore storico. culturale. religioso",si`
+18,CALABRIA,02/A160/CS/18,Cosenza,Albidona,Fontana Lungro,39° 54' 12.16'',16° 29' 02.03'',613,no,Populus canescens (Aiton) Sm.,Pioppo canescente,575,21.5,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+19,CALABRIA,03/A160/CS/18,Cosenza,Albidona,Forra Martino,39° 54' 34.95'',16° 29' 12.11'',536,no,Pinus  halepensis Mill.,Pino d'Aleppo,380,18.5,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+20,CALABRIA,05/A340/CS/18,Cosenza,Aprigliano,Baracchelle,39° 13' 55.74'',16° 28' 43.54'',1327,no,Insieme omogeneo di Sequoia sempervirens (D. Don) Endl.,Sequoia sempreverde,"600 (med)
+700 (max)","21.0 (med)
+25.0 (max)",a) eta` e/o dimensioni,no
+21,CALABRIA,06/A340/CS/18,Cosenza,Aprigliano,Lardone,39° 15' 00.33'',16° 24' 04.55'',1360,no,Sequoiadendron giganteum (Lindl.) J. Buchholz,Sequoia gigante,780,25.0,a) eta` e/o dimensioni,no
+22,CALABRIA,07/A340/CS/18,Cosenza,Aprigliano,Lardone,39° 00' 9'',16° 24' 04.97'',1360,no,Abies nordmanniana (Steven) Spach,Abete del Caucaso,760,28.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+23,CALABRIA,01/A762/CS/18,Cosenza,Belmonte Calabro,Iannizzi Casalini,39° 11' 40.12'',16° 06' 46'',791,no,Castanea sativa Mill.,Castagno,670,26.5,a) eta` e/o dimensioni,si`
+24,CALABRIA,01/B270/CS/18,Cosenza,Buonvicino,Filicaro,39° 41' 03.86'',15° 55' 47.94'',800,no,Quercus ilex L.,Leccio,430,24.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico",si`
+25,CALABRIA,01/M385/CS/18,Cosenza,Casali del Manco,Righio di Campagna,39° 19' 30.51'',16° 31' 47.54'',1341,no,Insieme omogeneo di Acer pseudoplatanus L.,Acero di monte,"400 (med)
+495 (max)","18.0 (med)
+18.0 (max)",a) eta` e/o dimensioni,si`
+26,CALABRIA,02/M385/CS/18,Cosenza,Casali del Manco,Salesiani,39° 18' 20.77'',16° 29' 56.32'',1402,no,Abies alba Mill.,Abete bianco,400,15.0,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+27,CALABRIA,03/M385/CS/18,Cosenza,Casali del Manco,Piazza Vittorio Veneto,39° 16' 38.89'',16° 20' 45.5'',738,si`,Populus nigra L.,Pioppo nero,420,12.5,"a) eta` e/o dimensioni
+b) forma e portamento
+g) valore storico. culturale. religioso",si`
+28,CALABRIA,04/M385/CS/18,Cosenza,Casali del Manco,Le Macchie,39° 16' 10.54'',16° 32' 08.67'',1500,no,Fagus sylvatica L.,Faggio,352-350-255-220-180,19.0,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+29,CALABRIA,02/C349/CS/18,Cosenza,Castrovillari,Via Pasquale Laghi 7,39° 49' 00.18'',16° 12' 39.88'',365,si`,Quercus robur L.,Farnia,560,16.5,a) eta` e/o dimensioni,si`
+30,CALABRIA,04/C349/CS/18,Cosenza,Castrovillari,Pollinello,39° 53' 59.24'',16° 11' 05.39'',2004,no,Pinus heldreichii Christ syn Pinus leucodermis Antoine,Pino loricato,600,12.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+d) rarita` botanica
+f) pregio paesaggistico",si`
+31,CALABRIA,01/C430/CS/18,Cosenza,Celico,Colamauci,39° 23' 31.08'',16° 30' 12.34'',1160,no,Castanea sativa Mill.,Castagno,1285,13.5,"a) eta` e/o dimensioni
+c) valore ecologico
+d) rarita` botanica",si`
+32,CALABRIA,01/C489/CS/18,Cosenza,Cerchiara di Calabria,Venaglie,39° 50' 43.28'',16° 21' 35.25'',960,no,Quercus pubescens Willd.,Roverella,610,15.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+33,CALABRIA,02/C489/CS/18,Cosenza,Cerchiara di Calabria,San Fele,39° 50' 0.45'',16° 21' 50.01'',625,no,Fraxinus excelsior L.,Frassino maggiore,430,18.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+34,CALABRIA,03/C489/CS/18,Cosenza,Cerchiara di Calabria,Serra delle Ciavole - Piano di Acquafredda,39° 54' 17'',16° 13' 24'',1853,no,Pinus heldreichii Christ syn Pinus leucodermis Antoine,Pino loricato,450,15.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+d) rarita` botanica
+f) pregio paesaggistico",si`
+35,CALABRIA,02/C560/CS/18,Cosenza,Cerzeto,Passo Guardia,39° 29' 15.11'',16° 04' 16.91'',1018,no,Fagus sylvatica L.,Faggio,470,39.5,"a) eta` e/o dimensioni
+g) valore storico. culturale. religioso",si`
+36,CALABRIA,01/M403/CS/18,Cosenza,Corigliano-Rossano,Finaita,39° 32' 18.04'',16° 33' 46.2'',1016,no,Insieme omogeneo di Castanea sativa Mill.,Castagno,"566 (med)
+877 (max)","14.0 (med)
+28.0 (max)","a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+f) pregio paesaggistico",si`
+37,CALABRIA,02/M403/CS/18,Cosenza,Corigliano-Rossano,Frasso - Amarelli,39° 36' 37.15'',16° 38' 6.69'',23,si`,Olea europaea L.,Olivo,670,18.0,"a) eta` e/o dimensioni
+b) forma e portamento
+f) pregio paesaggistico",si`
+38,CALABRIA,03/M403/CS/18,Cosenza,Corigliano-Rossano,Baraccone,39° 31' 20.5'',16° 31' 13.95'',928,no,Castanea sativa Mill.,Castagno,990,15.0,a) eta` e/o dimensioni,si`
+39,CALABRIA,04/D464/CS/18,Cosenza,Fagnano Castello,Nciddra,39° 34' 15.87'',16° 1' 58.9'',776,no,Castanea sativa Mill.,Castagno,600,12.0,a) eta` e/o dimensioni,no
+40,CALABRIA,05/D464/CS/18,Cosenza,Fagnano Castello,Mazzancollo,39° 34' 24.79'',16° 1' 29.23'',827,no,Castanea sativa Mill.,Castagno,620,15.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+41,CALABRIA,06/D464/CS/18,Cosenza,Fagnano Castello,Mazzancollo,39° 34' 26.03'',16° 1' 28.95'',827,no,Castanea sativa Mill.,Castagno,600,12.0,a) eta` e/o dimensioni,no
+42,CALABRIA,01/E185/CS/18,Cosenza,Grisolia,Monte,39° 43' 22.17'',15° 54' 23.03'',685,no,Castanea sativa Mill.,Castagno,1400,15.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico",no
+43,CALABRIA,02/E185/CS/18,Cosenza,Grisolia,Monte,39° 43' 19.2'',15° 54' 22.68'',718,no,Castanea sativa Mill.,Castagno,860,15.0,"a) eta` e/o dimensioni
+c) valore ecologico",no
+44,CALABRIA,03/E185/CS/18,Cosenza,Grisolia,Monte,39° 43' 22.04'',15° 54' 23.1'',685,no,Castanea sativa Mill.,Castagno,628,20.0,"a) eta` e/o dimensioni
+c) valore ecologico",no
+45,CALABRIA,01/E417/CS/18,Cosenza,Laino Borgo,Licari,39° 58' 28.51'',15° 59' 36.78'',298,no,Quercus pubescens Willd.,Roverella,490,20.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+f) pregio paesaggistico
+g) valore storico. culturale. religioso",si`
+46,CALABRIA,01/E450/CS/18,Cosenza,Lappano,La Dota,39° 19' 4.16'',16° 18' 47.04'',650,si`,Olea europaea L.,Olivo,210-250,5.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico",no
+47,CALABRIA,01/E678/CS/18,Cosenza,Longobucco,Maddalena,39° 26' 4'',16° 35' 59'',1200,no,Pinus nigra subsp. laricio Maire,Pino laricio,510,28.0,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+48,CALABRIA,04/E678/CS/18,Cosenza,Longobucco,Fossiata,39° 23' 51.4'',16° 35' 56.32'',1256,no,Pinus nigra subsp. laricio Maire,Pino laricio,262,31.5,b) forma e portamento,si`
+49,CALABRIA,07/E678/CS/18,Cosenza,Longobucco,Santa Barbara,39° 23' 12'',16° 37' 38'',1371,no,Pinus nigra subsp. laricio Maire,Pino laricio,580,21.0,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+50,CALABRIA,01/F001/CS/18,Cosenza,Marzi,Orsara,39° 09' 10.94'',16° 22' 14.03'',883,no,Castanea sativa Mill.,Castagno,850,20.0,a) eta` e/o dimensioni,si`
+51,CALABRIA,02/F001/CS/18,Cosenza,Marzi,Contrada Tozzo,39° 10' 19.01'',16° 18' 36.52'',582,no,Quercus pubescens Willd.,Roverella,300,20.0,"b) forma e portamento
+c) valore ecologico
+g) valore storico. culturale. religioso",no
+52,CALABRIA,01/F708/CS/18,Cosenza,Morano Calabro,Villa Comunale,39° 50' 29.86'',16° 08' 15.42'',580,si`,Cedrus deodara (D.Don) G.Don,Cedro dell'Himalaya,470,24.5,"a) eta` e/o dimensioni
+g) valore storico. culturale. religioso",si`
+53,CALABRIA,02/F708/CS/18,Cosenza,Morano Calabro,Pollinello,39° 53' 52.09'',16° 10' 17'',1530,no,Pinus heldreichii Christ syn Pinus leucodermis Antoine,Pino loricato,620,16.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+d) rarita` botanica
+f) pregio paesaggistico",si`
+54,CALABRIA,02/G975/CS/18,Cosenza,Praia a Mare,Viale della Liberta',39° 53' 49.37'',15° 46' 49.82'',0,si`,Insieme omogeneo di Platanus acerifolia (Aiton) Willd.,Platano comune,"160 (med)
+400 (max)","16.0 (med)
+20.0 (max)","e) architettura vegetale
+f) pregio paesaggistico",no
+55,CALABRIA,01/H490/CS/18,Cosenza,Rogliano,Bocchineri,39° 11' 16.24'',16° 19' 11.6'',609,si`,Quercus petraea (Matt.) Liebl.,Rovere,450,27.5,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+56,CALABRIA,02/H490/CS/18,Cosenza,Rogliano,Fravica,39° 11' 17.7'',16° 24' 34.05'',1000,no,Quercus petraea (Matt.) Liebl.,Rovere,560,24.5,"a) eta` e/o dimensioni
+b) forma e portamento
+e) architettura vegetale",si`
+57,CALABRIA,01/H765/CS/18,Cosenza,San Basile,Via Diaz 42,39° 48' 40.63'',16° 9' 51.87'',550,si`,Olea europaea L.,Olivo,690,7.5,"a) eta` e/o dimensioni
+c) valore ecologico
+f) pregio paesaggistico",no
+58,CALABRIA,02/H765/CS/18,Cosenza,San Basile,Via Liberta',39° 48' 37.86'',16° 9' 40.96'',550,si`,Olea europaea L.,Olivo,720,6.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+e) architettura vegetale
+f) pregio paesaggistico",no
+59,CALABRIA,01/H919/CS/18,Cosenza,San Giovanni in Fiore,Serrisi,39° 18' 18.19'',16° 39' 24.46'',1252,no,Castanea sativa Mill.,Castagno,650,16.0,a) eta` e/o dimensioni,si`
+60,CALABRIA,01/I108/CS/18,Cosenza,San Pietro in Amantea,Piazza IV Novembre,39° 8' 14.81'',16° 6' 44.17'',379,si`,Platanus orientalis L.,Platano orientale,467,32.0,a) eta` e/o dimensioni,si`
+61,CALABRIA,01/I309/CS/18,Cosenza,Santa Sofia D'Epiro,Contrada Acci,39° 36' 6.24'',16° 18' 28.29'',195,no,Fraxinus angustifolia Vahl subsp. oxycarpa (Willd.) Franco & Rocha Afonso,Frassino meridionale,250,18.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico",no
+62,CALABRIA,01/I192/CS/18,Cosenza,Sant'Agata di Esaro,Serra La Croce,39° 39' 5'',15° 55' 15'',1406,no,Pinus heldreichii Christ syn Pinus leucodermis Antoine,Pino loricato,220-225-370-325,17.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+d) rarita` botanica
+f) pregio paesaggistico
+g) valore storico. culturale. religioso",si`
+63,CALABRIA,01/I896/CS/18,Cosenza,Spezzano della Sila,Cozzo del Principe,39° 22' 27'',16° 34' 53'',1498,no,Pinus nigra subsp. laricio Maire,Pino laricio,370,14.5,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+64,CALABRIA,02/I896/CS/18,Cosenza,Spezzano della Sila,Fallistro,39° 19' 28.66'',16° 28' 1.81'',1428,no,Insieme omogeneo di Pinus nigra subsp. laricio Maire,Pino laricio,"403 (med)
+584 (max)","35.0 (med)
+43.5 (max)","a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico
+f) pregio paesaggistico
+g) valore storico. culturale. religioso",si`
+65,CALABRIA,01/L134/CS/18,Cosenza,Terravecchia,Piazza del Popolo,39° 27' 55.73'',16° 56' 46.1'',460,si`,Ulmus minor Mill.,Olmo campestre,263,8.5,"a) eta` e/o dimensioni
+b) forma e portamento
+e) architettura vegetale
+g) valore storico. culturale. religioso",si`
+66,CALABRIA,01/L353/CS/18,Cosenza,Trebisacce,Via Tacito 21,39° 52' 13.14'',16° 31' 34.6'',90,si`,Ceratonia siliqua L.,Carrubo,360,12.0,a) eta` e/o dimensioni,no
+67,CALABRIA,02/L353/CS/18,Cosenza,Trebisacce,Mazuca,39° 53' 16.19'',16° 31' 9.31'',250,no,Insieme omogeneo di Olea europaea L.,Olivo,"500 (med)
+670 (max)","5.0 (med)
+6.0 (max)","a) eta` e/o dimensioni
+b) forma e portamento",no
+68,CALABRIA,03/L353/CS/18,Cosenza,Trebisacce,Monte Mostarico,39° 53' 31.65'',16° 29' 39.4'',730,no,Insieme omogeneo di Quercus pubescens Willd.,Roverella,"400 (med)
+410 (max)","12.0 (med)
+15.0 (max)","a) eta` e/o dimensioni
+c) valore ecologico
+f) pregio paesaggistico",no
+69,CALABRIA,08/L353/CS/18,Cosenza,Trebisacce,Pagliara - Svincolo Trebisacce Nord,39° 53' 12.53'',16° 32' 52.15'',32,no,Pinus  halepensis Mill.,Pino d'Aleppo,430,19.5,"a) eta` e/o dimensioni
+e) architettura vegetale",si`
+70,CALABRIA,01/C725/KR/18,Crotone,Cirò,Solaggio,39° 24' 14.48'',17° 04' 49.71'',62,no,Fraxinus excelsior L.,Frassino maggiore,265,19.0,"b) forma e portamento
+f) pregio paesaggistico",no
+71,CALABRIA,02/C726/KR/18,Crotone,Cirò Marina,Torrenova,39° 21' 27.98'',17° 07' 30.32'',6,no,Eucalyptus camaldulensis Dehnh.,Eucalitto rostrato,535,22.0,a) eta` e/o dimensioni,no
+72,CALABRIA,02/D123/KR/18,Crotone,Cotronei,Brunara,39° 09' 48.96'',16° 40' 39'',1112,no,Acer pseudoplatanus L.,Acero di monte,330,24.0,a) eta` e/o dimensioni,no
+73,CALABRIA,04/D123/KR/18,Crotone,Cotronei,Brunara,39° 09' 48'',16° 40' 42'',1108,no,Quercus petraea (Matt.) Liebl.,Rovere,320,24.0,d) rarita` botanica,no
+74,CALABRIA,01/D122/KR/18,Crotone,Crotone,Villa Comunale,39° 4' 56.98'',17° 7' 51.35'',10,si`,Ficus macrophylla Desf. ex Pers.,Fico magnolioide,480,15.0,b) forma e portamento,no
+75,CALABRIA,01/D189/KR/18,Crotone,Crucoli,Valle di Canne - Piana della Signora,39° 27' 01.9'',17° 02' 03.3'',32,no,Quercus pubescens Willd.,Roverella,465,21.0,a) eta` e/o dimensioni,no
+76,CALABRIA,01/F157/KR/18,Crotone,Mesoraca,Villetta San Nicola - Via XX Settembre 10,39° 4' 52.31'',16° 47' 15.13'',413,si`,Cedrus libani A.Richard,Cedro del Libano,455,22.0,a) eta` e/o dimensioni,no
+77,CALABRIA,02/F157/KR/18,Crotone,Mesoraca,Campo Sportivo,39° 05' 15.92'',16° 47' 54.01'',442,no,Quercus suber L.,Sughera,370,17.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+78,CALABRIA,04/F157/KR/18,Crotone,Mesoraca,Villaggio Fratta,39° 05' 52'',16° 41' 53.28'',1490,no,Fagus sylvatica L.,Faggio,480,37.0,a) eta` e/o dimensioni,no
+79,CALABRIA,05/F157/KR/18,Crotone,Mesoraca,Timpone Cucumilia - Monte Femminamorta,39° 6' 38.82'',16° 40' 8.24'',1632,no,Abies alba Mill.,Abete bianco,540,33.0,a) eta` e/o dimensioni,no
+80,CALABRIA,03/G508/KR/18,Crotone,Petilia Policastro,Macinello,39° 07' 43.75'',16° 40' 26.89'',1526,no,Pinus nigra subsp. laricio Maire,Pino laricio,510,37.5,"a) eta` e/o dimensioni
+b) forma e portamento",no
+81,CALABRIA,04/G508/KR/18,Crotone,Petilia Policastro,Villaggio Principe,39° 07' 44.62'',16° 42' 21.6'',1485,no,Insieme omogeneo di Pinus nigra subsp. laricio Maire,Pino laricio,"450 (med)
+505 (max)","30.0 (med)
+31.0 (max)",a) eta` e/o dimensioni,no
+82,CALABRIA,01/H383/KR/18,Crotone,Roccabernarda,Piazza Aldo Barbaro,39° 08' 02.9'',16° 52' 10.57'',200,si`,Ulmus minor Mill.,Olmo campestre,425,26.0,a) eta` e/o dimensioni,no
+83,CALABRIA,01/I308/KR/18,Crotone,Santa Severina,Altilia,39° 10' 48.37'',16° 52' 21.67'',181,no,Pinus pinea L.,Pino domestico,460,24.0,a) eta` e/o dimensioni,no
+84,CALABRIA,01/A544/RC/18,Reggio di Calabria,Bagaladi,Colonia di Chiera,38° 06' 31.7'',15° 51' 38.5'',1590,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,"355 (med)
+365 (max)","26.0 (med)
+26.0 (max)",a) eta` e/o dimensioni,no
+85,CALABRIA,01/A897/RC/18,Reggio di Calabria,Bivongi,Vallone Folea,38° 30' 7.86'',16° 23' 52.57'',660,no,Alnus glutinosa  (L.) Gaertn.,Ontano nero,350,20.0,"a) eta` e/o dimensioni
+b) forma e portamento
+f) pregio paesaggistico",no
+86,CALABRIA,02/B756/RC/18,Reggio di Calabria,Cardeto,Mano di Madda',38° 07' 8'',15° 51' 59'',1670,no,Abies alba Mill.,Abete bianco,470,25.0,a) eta` e/o dimensioni,no
+87,CALABRIA,01/C747/RC/18,Reggio di Calabria,Cittanova,Villa Comunale Carlo Ruggiero,38° 21' 0'',16° 4' 60'',425,si`,Sequoia sempervirens (D. Don) Endl.,Sequoia sempreverde,435,34.0,"a) eta` e/o dimensioni
+b) forma e portamento
+d) rarita` botanica",no
+88,CALABRIA,03/C747/RC/18,Reggio di Calabria,Cittanova,Villa Comunale Carlo Ruggero,38° 20' 59.92'',16° 05' 00.34'',400,si`,Pinus strobus L.,Pino strobo,380,35.0,"a) eta` e/o dimensioni
+d) rarita` botanica",no
+89,CALABRIA,01/C954/RC/18,Reggio di Calabria,Condofuri,Gallicianò,38° 01' 2'',15° 53' 23'',520,no,Populus nigra L.,Pioppo nero,530,27.0,a) eta` e/o dimensioni,no
+90,CALABRIA,01/D268/RC/18,Reggio di Calabria,Delianuova,Piani di Carmelia,38° 12' 31.61'',15° 55' 35.25'',1256,no,Crataegus monogyna Jacq.,Biancospino comune,290-90-170-70,10.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+91,CALABRIA,01/D619/RC/18,Reggio di Calabria,Fiumara,Contrada Baglio,38° 13' 24'',15° 42' 34'',543,no,Quercus pubescens Willd.,Roverella,500,25.0,a) eta` e/o dimensioni,no
+92,CALABRIA,01/F301/RC/18,Reggio di Calabria,Molochio,Trepido',38° 16' 41.15'',16° 03' 00.02'',975,no,Fagus sylvatica L.,Faggio,510,23.0,a) eta` e/o dimensioni,no
+93,CALABRIA,01/G082/RC/18,Reggio di Calabria,Oppido Mamertina,Largo San Francesco,38° 17' 49.12'',15° 59' 00.14'',295,si`,Pinus pinea L.,Pino domestico,480,25.0,a) eta` e/o dimensioni,no
+94,CALABRIA,01/H224/RC/18,Reggio di Calabria,Reggio di Calabria,Tre Aie,38° 09' 23.39'',15° 49' 59.31'',1342,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,"340 (med)
+411 (max)","35.0 (med)
+36.0 (max)","a) eta` e/o dimensioni
+f) pregio paesaggistico",no
+95,CALABRIA,02/H224/RC/18,Reggio di Calabria,Reggio di Calabria,Gornelle,38° 08' 18.23'',15° 50' 07.61'',1380,no,Fagus sylvatica L.,Faggio,536,25.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+96,CALABRIA,03/H224/RC/18,Reggio di Calabria,Reggio di Calabria,Tre Aie,38° 09' 05.8'',15° 49' 54.39'',1317,no,Fagus sylvatica L.,Faggio,560,20.0,a) eta` e/o dimensioni,no
+97,CALABRIA,05/H224/RC/18,Reggio di Calabria,Reggio di Calabria,Fragolara,38° 09' 01.71'',15° 49' 55.64'',1350,no,Pinus nigra subsp. laricio Maire,Pino laricio,355,20.0,b) forma e portamento,no
+98,CALABRIA,06/H224/RC/18,Reggio di Calabria,Reggio di Calabria,Due Fiumare,38° 09' 48.26'',15° 48' 27.76'',780,no,Eucalyptus camaldulensis Dehnh.,Eucalitto rostrato,570,30.0,a) eta` e/o dimensioni,no
+99,CALABRIA,07/H224/RC/18,Reggio di Calabria,Reggio di Calabria,Marrappa,38° 9' 11'',15° 48' 15'',1156,no,Platanus acerifolia (Aiton) Willd.,Platano comune,393,28.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+100,CALABRIA,01/H489/RC/18,Reggio di Calabria,Roghudi,Piscopio,38° 07' 16'',15° 54' 17'',1346,no,Alnus glutinosa  (L.) Gaertn.,Ontano nero,540,18.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+101,CALABRIA,02/H013/RC/18,Reggio di Calabria,Samo,Ferraina,38° 06' 56.15'',15° 57' 11.25'',1363,no,Quercus petraea (Matt.) Liebl.,Rovere,620,20.0,a) eta` e/o dimensioni,no
+102,CALABRIA,05/H013/RC/18,Reggio di Calabria,Samo,Canovai Ferraina,38° 07' 30.31'',15° 57' 28.69'',1474,no,Insieme omogeneo di Quercus cerris L. x Quercus pubescens Willd.,Cerro-Roverella,"485 (med)
+575 (max)","17.0 (med)
+20.0 (max)","a) eta` e/o dimensioni
+d) rarita` botanica",no
+103,CALABRIA,06/H013/RC/18,Reggio di Calabria,Samo,Croce di Dio Lodato,38° 07' 00.04'',15° 57' 54'',1435,no,Quercus cerris L. x Quercus pubescens Willd.,Cerro-Roverella,530,13.0,"b) forma e portamento
+d) rarita` botanica",no
+104,CALABRIA,07/H013/RC/18,Reggio di Calabria,Samo,Croce di Belli,38° 07' 04.61'',15° 57' 44.67'',1381,no,Quercus cerris L. x Quercus pubescens Willd.,Cerro-Roverella,660,20.0,a) eta` e/o dimensioni,no
+105,CALABRIA,08/H013/RC/18,Reggio di Calabria,Samo,Canovai - Ferraina,38° 7' 35.72'',15° 57' 5.46'',1384,no,Pinus nigra subsp. laricio Maire,Pino laricio,475,25.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+106,CALABRIA,09/H013/RC/18,Reggio di Calabria,Samo,Foresta di Ferraina,38° 7' 24.64'',15° 57' 17.27'',1404,no,Quercus petraea (Matt.) Liebl. subsp. austrotyrrhenica Brullo. Guarino & Siracusa,Rovere meridionale,595,22.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+107,CALABRIA,01/H959/RC/18,Reggio di Calabria,San Lorenzo,Piazza Regina Margherita,38° 00' 39.24'',15° 49' 59.19'',770,si`,Ulmus minor Mill.,Olmo campestre,510,10.0,"a) eta` e/o dimensioni
+b) forma e portamento
+g) valore storico. culturale. religioso",no
+108,CALABRIA,01/H970/RC/18,Reggio di Calabria,San Luca,San Giorgio di Pietracappa,38° 10' 41.08'',16° 01' 34.52'',694,no,Castanea sativa Mill.,Castagno,640,14.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+109,CALABRIA,02/H970/RC/18,Reggio di Calabria,San Luca,Fontanelle,38° 10' 29.95'',16° 01' 18.27'',690,no,Castanea sativa Mill.,Castagno,950,16.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+110,CALABRIA,01/I176/RC/18,Reggio di Calabria,Santa Cristina D'Aspromonte,Zervo',38° 13' 21.73'',16° 00' 09.59'',1180,no,Taxus baccata L.,Tasso,320,15.0,"a) eta` e/o dimensioni
+b) forma e portamento
+d) rarita` botanica",no
+111,CALABRIA,02/I176/RC/18,Reggio di Calabria,Santa Cristina D'Aspromonte,Zervo',38° 13' 20.08'',16° 00' 10.27'',1180,no,Abies alba Mill.,Abete bianco,490,30.0,a) eta` e/o dimensioni,no
+112,CALABRIA,03/I176/RC/18,Reggio di Calabria,Santa Cristina D'Aspromonte,Zervo' - Ex Sanatorio Vittorio Emanuele III,38° 13' 24.77'',15° 59' 41.53'',1140,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,"406 (med)
+490 (max)","30.0 (med)
+31.0 (max)",a) eta` e/o dimensioni,no
+113,CALABRIA,01/I333/RC/18,Reggio di Calabria,Sant'Eufemia D'Aspromonte,Serra Petrulli,38° 12' 7'',15° 51' 25.51'',1178,no,Pinus nigra subsp. laricio Maire,Pino laricio,475,30.0,"a) eta` e/o dimensioni
+b) forma e portamento
+g) valore storico. culturale. religioso",no
+114,CALABRIA,01/I371/RC/18,Reggio di Calabria,Santo Stefano in Aspromonte,Gambarie - Via Giuseppe Garibaldi 2,38° 10' 06.07'',15° 50' 18.51'',1324,si`,Calocedrus decurrens (Torr.) Florin,Libocedro,475,25.0,"a) eta` e/o dimensioni
+b) forma e portamento
+d) rarita` botanica",no
+115,CALABRIA,01/I537/RC/18,Reggio di Calabria,Scilla,Abetazzo,38° 10' 28.26'',15° 51' 53.59'',1576,no,Abies alba Mill.,Abete bianco,495,25.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+116,CALABRIA,01/I725/RC/18,Reggio di Calabria,Siderno,Latticugna,38° 16' 33.32'',16° 17' 07.49'',200,si`,Quercus virgiliana (Ten.) Ten.,Quercia castagnara,493,20.0,a) eta` e/o dimensioni,no
+117,CALABRIA,02/I725/RC/18,Reggio di Calabria,Siderno,Fondazione Monaca di Bello,38° 16' 13.85'',16° 17' 13.93'',23,si`,Insieme omogeneo di Quercus pubescens Willd.,Roverella,"430 (med)
+484 (max)","19.0 (med)
+20.0 (max)",a) eta` e/o dimensioni,no
+118,CALABRIA,01/I956/RC/18,Reggio di Calabria,Stilo,Mulinelle,38° 32' 34.02'',16° 23' 10.2'',1094,no,Abies alba Mill.,Abete bianco,390,40.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+119,CALABRIA,02/I956/RC/18,Reggio di Calabria,Stilo,Mulinelle,38° 32' 52.92'',16° 23' 1.74'',1130,no,Abies alba Mill.,Abete bianco,490,30.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+120,CALABRIA,01/L673/RC/18,Reggio di Calabria,Varapodio,Ligoni,38° 19' 57'',15° 59' 35'',150,no,Olea europaea L.,Olivo,750,28,a) eta` e/o dimensioni,no
+121,CALABRIA,02/A386/VV/18,Vibo Valentia,Arena,Tre Aie,38° 32' 49.43'',16° 17' 21.36'',1056,no,Abies alba Mill.,Abete bianco,520,32.0,"a) eta` e/o dimensioni
+b) forma e portamento",si`
+122,CALABRIA,03/A386/VV/18,Vibo Valentia,Arena,Quattro Arie,38° 32' 42.54'',16° 17' 18.59'',1046,no,Abies alba Mill.,Abete bianco,480,20.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+123,CALABRIA,05/A386/VV/18,Vibo Valentia,Arena,Tre Arie,38° 32' 44.97'',16° 17' 29.98'',1067,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,"460 (med)
+470 (max)",35.0 (med),"a) eta` e/o dimensioni
+b) forma e portamento",no
+124,CALABRIA,01/D303/VV/18,Vibo Valentia,Dinami,Soreto,38° 32' 53.06'',16° 7' 31.96'',60,no,Populus nigra L.,Pioppo nero,753,14.0,"a) eta` e/o dimensioni
+f) pregio paesaggistico
+g) valore storico. culturale. religioso",si`
+125,CALABRIA,01/D453/VV/18,Vibo Valentia,Fabrizia,Sierru,38° 28' 28.07'',16° 19' 50.25'',1000,no,Castanea sativa Mill.,Castagno,565,26.0,a) eta` e/o dimensioni,si`
+126,CALABRIA,01/F364/VV/18,Vibo Valentia,Mongiana,Fontanelle,38° 30' 40.2'',16° 17' 31.26'',1050,no,Abies alba Mill.,Abete bianco,460,35.0,"a) eta` e/o dimensioni
+c) valore ecologico
+g) valore storico. culturale. religioso",si`
+127,CALABRIA,01/I639/VV/18,Vibo Valentia,Serra San Bruno,Castagnara,38° 33' 04.95'',16° 18' 33.05'',855,no,Taxus baccata L.,Tasso,250,20.0,"a) eta` e/o dimensioni
+c) valore ecologico",no
+128,CALABRIA,03/I639/VV/18,Vibo Valentia,Serra San Bruno,Santa Maria del Bosco,38° 33' 39.06'',16° 18' 58.26'',850,no,Abies alba Mill.,Abete bianco,390,33.0,"a) eta` e/o dimensioni
+b) forma e portamento
+c) valore ecologico",no
+129,CALABRIA,05/I639/VV/18,Vibo Valentia,Serra San Bruno,Rosarella,38° 33' 19.82'',16° 20' 10.52'',950,no,Abies alba Mill.,Abete bianco,470,30.0,a) eta` e/o dimensioni,no
+130,CALABRIA,06/I639/VV/18,Vibo Valentia,Serra San Bruno,Bosco Archiforo,38° 32' 16.21'',16° 20' 42.09'',1327,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,"427 (med)
+450 (max)",45.0 (max),"a) eta` e/o dimensioni
+b) forma e portamento",no
+131,CALABRIA,07/I639/VV/18,Vibo Valentia,Serra San Bruno,Pietra del Caricatore,38° 32' 24.64'',16° 20' 12.64'',1144,no,Abies alba Mill.,Abete bianco,510,40.0,"a) eta` e/o dimensioni
+b) forma e portamento",no
+132,CALABRIA,09/I639/VV/18,Vibo Valentia,Serra San Bruno,Monte Pecoraro,38° 32' 27.6'',16° 20' 33.62'',1243,no,Abies alba Mill.,Abete bianco,480,45.0,a) eta` e/o dimensioni,no
+133,CALABRIA,10/I639/VV/18,Vibo Valentia,Serra San Bruno,Lu Bellu,38° 33' 36.1'',16° 20' 51.76'',1068,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,"460 (med)
+470 (max)",40.0 (med),a) eta` e/o dimensioni,no
+134,CALABRIA,01/I744/VV/18,Vibo Valentia,Simbario,Trainaro,38° 36' 51.46'',16° 20' 53.9'',762,no,Quercus pubescens Willd.,Roverella,620,21.0,"a) eta` e/o dimensioni
+c) valore ecologico",no
+135,CALABRIA,01/I884/VV/18,Vibo Valentia,Spadola,Vallone Fondo Baciafemmine,38° 34' 47.52'',16° 21' 53.01'',1020,no,Fagus sylvatica L.,Faggio,480,35.0,a) eta` e/o dimensioni,no
+136,CALABRIA,02/I884/VV/18,Vibo Valentia,Spadola,Vallone Fondo Baciafemmine,38° 34' 33.81'',16° 21' 52.21'',1047,no,Insieme omogeneo di Abies alba Mill.,Abete bianco,480 (max),"35.0 (med)
+35.0 (max)","a) eta` e/o dimensioni
+b) forma e portamento",no
